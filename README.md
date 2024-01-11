@@ -38,12 +38,10 @@ Ip ae nhận được sẽ có dạng như sau: `171.229.130.47:23270:wy:wy`
 
 ## Bước 3: Thiết lập proxy
 
-Bây giờ ae sẽ tại proxy helper về, sau khi tải thanh công nó sẽ tự động chuyển sang trang option cho ae:
+Bây giờ ae sẽ tại proxy helper về, sau khi tải thanh công nó sẽ tự động chuyển sang trang option cho ae: Ở bước 2 ae nhớ click vào chọn `singleProxy`.
+
 ![proxy](proxy.png)
-
-Ở bước 2 ae nhớ click vào chọn `singleProxy`.
-
-Sau khi hoàn thành thì ae mở tab mới, ae nhập gì đó vào thanh tìm kiếm rồi nhấn enter, sẽ có 1 form hiện ra, ae điền tài khoản và mật khẩu vào. Bước tiếp theo chỉ cần cài grass nữa là xong.
+Nhập tài khoản và mật khẩu vào đây:
 ![login](login.png)
 
 Ae muốn treo thêm nhiều proxy thì nhấn vào đây để add account, không cần login cũng được.
