@@ -1,6 +1,6 @@
 # Cách đào grass trên vps kết hợp proxy
 
-Hiện tại thì mình đang chạy 12 tài khoản trên 2 vps kết hợp proxy với chi phí chỉ khoảng 350k, chi tiết hướng dẫn sẽ ở bên dưới, ae nào thiện chí thì nhấn [vào đây](https://app.getgrass.io/register/?referralCode=3rfSgfKhjh14XSv) cho mình xin vài ref nha 😆😆.
+Hiện tại thì mình đang chạy 12 tài khoản trên 2 vps kết hợp proxy với chi phí chỉ khoảng 350k, chi tiết hướng dẫn sẽ ở bên dưới, ae nào thiện chí thì cho mình xin vài ref nha 😆😆: https://app.getgrass.io/register/?referralCode=3rfSgfKhjh14XSv.
 ![intro](intro.png)
 
 ## Bước 1: Chuẩn bị vps
