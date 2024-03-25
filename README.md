@@ -1,50 +1,33 @@
 # Cách đào grass trên vps kết hợp proxy
 
-Hiện tại thì mình đang chạy 12 tài khoản trên 2 vps kết hợp proxy với chi phí chỉ khoảng 350k, chi tiết hướng dẫn sẽ ở bên dưới, ae nào thiện chí thì cho mình xin vài ref nha 😆😆: https://app.getgrass.io/register/?referralCode=3rfSgfKhjh14XSv.
+Hiện tại với 360k, ae có thể chạy dc 6 tài khoản grass, chi tiết hướng dẫn sẽ ở bên dưới. Ae nào chưa có tài khoản có thể đăng ký [tại đây.](https://app.getgrass.io/register/?referralCode=3rfSgfKhjh14XSv)
 ![intro](intro.png)
 
 ## Bước 1: Chuẩn bị vps
 
-Hai vps mình đang dùng là thangvps (ip dân cư) và inet (ip datacenter), cả 2 đều dùng window 2019:
+Hai vps mình đang dùng:
 
-- thangvps: https://thangvps.com/store/vps-ip-ring
-  ![thangvps](thangvps.png)
-- inet: https://inet.vn/cloud-server?tab=windows
-  ![inet](inet.png)
+- VPS1: https://taphoammo.net/gian-hang/cloud-vps-server-trial-nuoc-ngoai-gia-re-bao-hanh-1-oi-1_886061
+  ![VPS1](vps1.png)
+- VPS2: https://taphoammo.net/gian-hang/ban-vps-viet-gia-re-an-toan-khong-die-gia-han-thoai-mai_980854
+  ![VPS2](vps2.png)
 
 Sau khi thành toán thành công, ae kết nối bằng Remote Desktop Connection.
 
-<strong>\* Lưu ý: ae nhớ update window sau đó restart lại. Nếu không thì không thể chạy được.</strong>
-
 ## Bước 2: Chuẩn bị proxy
 
-Ae vào [taphoammo](https://taphoammo.net/gian-hang/cung-cap-proxy-dan-cu-viet-nam_119936) và mua con này:
-![taphoammo](taphoammo.png)
+Hai proxy mình đang dùng:
 
-Ae nên dùng private v1 hoặc v2:
-
-- Đối với v1 tốc độ rất nhanh (mình chưa test), có lẽ hiện tại đang hết hàng
-- Đối với v2 thì tốc độ sẽ random từ 45 - 85%
-- Còn v3 thì mình nghĩ ae không nên dùng
-
-Sau khi thanh toán thành công, ae nhấn vào biểu tượng chat phía trên bên phải, gửi mã đơn hàng của ae vào đó để nhận ip.
-
-Ip ae nhận được sẽ có dạng như sau: `171.229.130.47:23270:wy:wy`
-
-- ip: `171.229.130.47`
-- port: `23270`
-- tài khoản: `wy`
-- mật khẩu: `wy`
+- Proxy1: https://taphoammo.net/gian-hang/proxy-ipv4-ipv6-xoay-tinh-vn-us-mang-dan-cu-fpt-viettel_73453
+  ![proxy1](proxy1.png)
+- Proxy2: https://taphoammo.net/gian-hang/proxy-ipv4-dan-cu-gia-re-toc-o-cao-chat-luong-cao_193855
+  ![proxy2](proxy2.png)
 
 ## Bước 3: Thiết lập proxy
 
-Bây giờ ae sẽ tại proxy helper về, sau khi tải thanh công nó sẽ tự động chuyển sang trang option cho ae: Ở bước 2 ae nhớ click vào chọn `singleProxy`.
+- Ae tải [Simple Proxy Switcher](https://chromewebstore.google.com/detail/pcboajngloecgmaailkmphmpbacmbcfb?hl=vi). Sau đó ae dán proxy vừa mua vào như ảnh dưới rồi chọn save:
+  ![paste-proxy](paste-proxy.png)
+- Sau đó check vào ô hình tròn là xong:
+  ![check](check.png)
 
-![proxy](proxy.png)
-Nhập tài khoản và mật khẩu vào đây:
-![login](login.png)
-
-Ae muốn treo thêm nhiều proxy thì nhấn vào đây để add account, không cần login cũng được.
-![account](account.png)
-
-<strong>Chúc ae chạy thành công 😆😆</strong>
+<strong>Chúc ae lụm ngàn đô 🚀🚀.</strong>
